@@ -117,6 +117,9 @@ x86 compiler switches and fast-math from the initial correctness baseline.
 
 ### Instructions for the implementation session
 
+The ready-to-paste startup prompt is also saved in
+[INSTRUCTION_NEON_PORT.md](INSTRUCTION_NEON_PORT.md).
+
 Start a new session with this request:
 
 > Read NEON_SUPPORT_PLAN.md, including the Mac handoff section. Implement the
